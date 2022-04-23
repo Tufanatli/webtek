@@ -1,0 +1,45 @@
+WEB TEKNOLOJÝLERÝ PROJE ÖDEVÝ 
+
+MELÝH TUFAN ATLI 2-B	
+
+G211210065
+
+GÝTHUB PROJE LÝNKÝ: https://github.com/Tufanatli/webtek.git
+
+PROJEDE ÝSTENÝLENLER:
+-Derste öðrenilen bilgiler (HTML, CSS, Javascript vb.) kullanýlarak bir web sitesi geliþtirilmesi.
+
+-Hakkýnda sayfasý giriþ sayfasý niteliðinde olmalý, sayfa sahibinin kendini tanýtan bilgiler (Hobiler,
+Etkinlikler vb ) , sevdiði spor,etkinlik vb ait resimler, linkler vb. içermelidir.
+
+-Eðitim bilgilerini içeren CV niteliðinde samantic taglarýn kullanýldýðý özgeçmiþ sayfasý olmalýdýr.
+
+-Þehrim þeklinde bir sayfa olmalý, bu sayfada memletinize ya da sevdiðiniz þehre ait bilgiler yer
+almalýdýr. (Þehrin nufusu, gezilecek yerler vb) Sayfanýn baþýnda ya da sonunda en az 4 resimden
+oluþan bir slider yer almalýdýr. Slider’da yer alan resimlere týklandýðýnda ilgili resimlere ait içeriklere
+link olmalýdýr.(Ýçerikler ayrýntýlý olmadan site içersinde yer almalý)
+-Mirasýmýz linkli bir sayfa ile, þehre ait kültürel miras niteliðindeki önemli bir eser; ya da Takýmýmýz
+linkli bir sayfada þehrin takýmý (Futbol,Basketbol vb branþ farketmez) html elamanlarý kullanýlarak
+tanýtýlmalýdýr.
+
+-Ýlgi alanlarým isminde bir sayfada, ilgi alanlarýnýz çerçevesinde (film, spor vb) internetten bulduðunuz
+ücretsiz bir API servisinden veri alýnýp gösterilmelidir.
+
+-Sitede bir login sayfasý yer almalýdýr. Login sayfasýnda öðrenci numaranýza ait kullanýcý adý (örneðin
+b1812100001@sakarya.edu.tr) ve þifre (þifre “b1812100001” gibi herkesin domain içermeyen
+numarasý olmalý) bir php sayafasýna post edilip burada kullanýcý bilgileri gönderilen sayfada
+tanýmlanan deðiþkenler ile kontrol edilmelidir. Eðer kontrol iþlemi baþarýlý ise post edilen sayfada
+Hoþgeldiniz “b1812100001” gibi bir mesajla login iþleminin baþarýlý olduðu bildirilmeli, login iþlemi
+baþarýsýz ise kullanýcý login sayfasýna geri yönlendirilmelidir. Ayný zamanda login sayfasýnda kullanýcý
+adý ve þifre alanýnýn boþ geçilmemesi ve kullanýcý adýnýn mail adresi olup olmadýðý kontrol edilmelidir.
+
+-Sitede form elamanlarý içeren bir iletiþim sayfasý olmalýdýr.
+Ýletiþim sayfasý tüm form elemanlarýný içermeli, formun tüm elamanlarýnýn elemanýn özelliðine
+göre seçim yada veri giriþi yapýlacak þekilde gönderilmesi saðlanmalýdýr.
+Ýletiþim formundaki gerekli kontrol iþlemleri (boþ mu, e-mail formatýnda mý vb.) javascript
+kullanýlarak denetlenmelidir. (Html elemanlarýna ait dahili denetimler kabul edilmeyecekitir)
+Form, temizle ve gönder butonlarý içermelidir.
+
+-Gönderilen form elemanlarýna ait bilgiler baþka bir sayfada görüntülenmelidir.
+
+-Projenin içindeki stiller (renk, yazý tipi, vs.) ayrý bir stil dosyasýnda tutulmalýdýr. 
